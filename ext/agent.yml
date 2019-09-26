@@ -1,6 +1,7 @@
 ---
 version: 690f4b8
 mirrors:
+- appsignal-mirror.oss-cn-beijing.aliyuncs.com
 - https://appsignal-agent-releases.global.ssl.fastly.net
 - https://d135dj0rjqvssy.cloudfront.net
 triples:
